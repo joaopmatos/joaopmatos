@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joaopmatos
-- 👀 I’m interested in security, privacy, mobile development and all things open source.
-- 🌱 I’m currently learning Android development with Kotlin. I'm also taking a bachelor's in Arts!
+- 👀 I’m interested in OpenUI5, mobile development and open source.
+- 🌱 I’m currently working in SAPUI5. In my free time, i'll be investing time in mobile apps.
 - 💞️ I’m looking to collaborate on open source and privacy frinedly projects to help make a better world!
 - 📫 You can reach me at joaopmatos@pm.me
-
