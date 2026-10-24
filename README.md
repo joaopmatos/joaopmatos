@@ -1,4 +1,4 @@
-Currently working full time as a full stack Developer in SAP stack: SAP UI5, SAP CAP, SAP ABAP.
+Currently working full time as a full stack Developer in SAP stack: SAP UI5 (JavaScript), SAP CAP (Node.js) and SAP ABAP. I also do plenty of work automating workflows and creating internal tooling at my company, which I find to be a lot of fun! Jack of all trades, maybe?
 
 Curious about security, safety and learning capability of individuals in current developer workflows, as well a privacy enthusiast (not an expert)!
 
